@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-assignment-3-client-side-solution",
+    "id": "ac11715f-ee64-4a8d-b110-5470babb611a",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.16.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "spfx-assignment-3 description"
+      },
+      "longDescription": {
+        "default": "spfx-assignment-3 description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "spfx-assignment-3 Feature",
+        "description": "The feature that activates elements of the spfx-assignment-3 solution.",
+        "id": "086faeb0-13cf-4bae-a736-3e81b44086aa",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-assignment-3.sppkg"
+  }
+}

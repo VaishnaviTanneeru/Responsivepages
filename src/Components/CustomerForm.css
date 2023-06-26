@@ -1,0 +1,37 @@
+.bodyContent {
+    background-image: url('../Images/car-bg-woman-green.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card1 {
+    width: 700px;
+    margin: auto;
+    margin-top: 10px;
+    background-color: rgba(0, 38, 81, .6);
+}
+.CardText5 {
+    color: gold;
+    font-size: 24px;
+}
+h1 {
+    text-align: center;
+    color: crimson;
+}
+.Form {
+    background-color: rgb(153, 179, 255);
+    margin: 20px;
+    border-radius: 20px;
+    margin-bottom: 2px;
+    padding:20px;
+}
+
+.btn23 {
+    margin-top: -980x;
+    margin-left: 415px;
+}
+
+.toast {
+    background-color: green;
+    position: fixed;
+    margin-left: 421px
+}

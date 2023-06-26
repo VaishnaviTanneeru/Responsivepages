@@ -1,0 +1,246 @@
+.topbar {
+    display: flex;
+    height: 59px;
+    background: linear-gradient(90deg, #1F0FD2 0%, #2FA9BA 35.51%, #3A1468 96.83%, #51C988 122.63%);
+
+}
+
+.searchicon {
+    color: #1F0FD2;
+    margin-left: -665px;
+}
+
+.topbar p {
+    color: white;
+    font-size: 15px;
+    font-weight: 600;
+    padding: 3px;
+}
+
+.search-input {
+    border-width: 1px;
+    border-radius: 4px;
+    width: 689px;
+    height: 37px;
+    margin-left: 71px;
+}
+
+::placeholder {
+    color: #1F0FD2;
+    /* text-align: center; */
+    /* margin-left:200px; */
+    padding: 45px;
+}
+
+.Icon {
+    color: white;
+    margin-left: 744px;
+    font-size: 1.73em;
+}
+
+.question {
+    width: 20px;
+    height: 20px;
+    color: white;
+}
+
+.circle {
+    border-radius: 50%;
+    width: 25px;
+    height: 21px;
+    background: red;
+    color: white;
+    font-size: 17px;
+    margin-top: -36px;
+    margin-left: 6px;
+    transform: translate(2px, 1px);
+}
+
+.circle1 {
+    margin-left: 20px;
+    border-radius: 50%;
+    width: 25px;
+    height: 27px;
+    padding: 3px 0px 10px 7px;
+    background: white;
+}
+
+.questionicon {
+    color: blueviolet;
+}
+
+.ulogo {
+    float: right;
+    border-radius: 50%;
+    width: 45px;
+    height: 7vh;
+    margin-left: 20px;
+}
+
+.firstrowcards {
+    display: flex;
+}
+
+.CardTitle {
+    display: flex;
+    font-family: 'Helvetica';
+    color: blueviolet;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.CardTitle img {
+    width: 20px;
+    height: 20px;
+}
+
+.viewAllbtn {
+    background-color: blueviolet;
+    color: white;
+    border: none;
+    width: 83px;
+    height: 32px;
+    border-radius: 4px;
+    font-size: 12px;
+    margin-left: 91px;
+}
+
+.Cardpics {
+    display: flex;
+}
+
+.DesignerName {
+    background: #0C63A6;
+    color: white;
+    width: 148px;
+    height: 130px;
+
+}
+
+.Cardpics1 {
+    background-color: green;
+    width: 162px;
+    height: 127px;
+    color: white;
+    display: flex;
+    padding: 5px;
+    margin-left: 2px;
+    margin-top: -12px;
+}
+
+.card-body {
+    background: rgba(209, 209, 209, 0.2);
+}
+
+.GirlImg {
+    width: 147px;
+    height: 127px;
+    margin-top: -5px;
+    margin-left: 116px;
+}
+
+.num {
+    padding: 7px;
+    font-size: 17px;
+}
+
+.carousel-indicators [data-bs-target] {
+    width: 14px !important;
+    height: 14px !important;
+    border-radius: 50%;
+    background-color: #1F0FD2 !important;
+}
+
+.CarouselImage {
+    width: 400px;
+    height: 400px;
+}
+
+.Emspot {
+    margin-left: 13px;
+}
+
+.imagedes1 {
+    display: flex;
+}
+
+.BA {
+    color: white;
+    font-family: Segoe UI;
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 24px;
+}
+
+.BATag {
+    width: 14px;
+    height: 14px;
+    margin-top: 11px;
+}
+
+.BApics {
+    width: 310px;
+    padding: 19px;
+    margin-left: 7px;
+}
+
+.circle2 {
+    background: #C6C6C6;
+    border: 1px solid rgba(204, 204, 204, 0.38);
+    margin-left: 133px;
+    border-radius: 50%;
+    width: 25px;
+    height: 27px;
+    padding: 3px 0px 10px 7px;
+    margin-top: -6px;
+}
+
+.Smallcards {
+    display: flex;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.SmallPics {
+    width: 50px;
+    height: 50px;
+}
+
+.SMimages {
+    margin-left: 54px;
+    margin-top: 20px;
+}
+
+.smallCards2 {
+    display: flex;
+}
+
+.circle3 {
+    background: #C6C6C6;
+    border: 1px solid rgba(204, 204, 204, 0.38);
+    margin-left: 150px;
+    border-radius: 50%;
+    width: 25px;
+    height: 27px;
+    padding: 3px 0px 10px 7px;
+    margin-top: -6px;
+}
+
+.largeCard {
+    display: flex;
+}
+
+.Smallcards .card-body {
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.36);
+}
+
+.smallCards2 .card-body {
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.36);
+}
+
+.Backicon {
+    color: orangered;
+    height: 20px;
+    margin-top: 20px;
+    margin: 20px;
+}

@@ -1,0 +1,112 @@
+.BlueDiv {
+    width: 50%;
+    height: 500px;
+    background-color: #006B99;
+}
+.SkyBlueDiv {
+    width: 50%;
+    height: 500px;
+    background: #7BC2BE99;
+}
+.Head{
+    color: white;
+    font-family: Helvetica;
+    padding: 40px;
+    font-size: 35px;
+}
+.BookNow{
+    background-color: black;
+    color: white;
+    border: none;
+    width: 100px;
+    height: 50px;
+    border-radius: 5px;
+    margin-left: 42px;
+    font-size: 15px;
+}
+.MainCar{
+    width: 680px;
+    position: absolute;
+    margin-left: 60px;
+}
+.CarIcons{
+    width: 872px;
+    height: 90px;
+    background-color: black;
+    transform: translate(10px, -48px);
+    margin: auto;
+    z-index: 2px;
+    display: flex;
+    justify-content: space-between;
+}
+.RollsRoyce{
+    width: 80px;
+    height: 80px;
+    animation: blinker 1.5s cubic-bezier(.5, 0, 1, 1) infinite alternate;  
+}
+@keyframes blinker {  
+  from { opacity: 1; }
+  to { opacity: 0; }
+}
+.Card1{
+    background: #006B9975;
+    margin:5px;
+    }
+.CardBtn{
+    margin-bottom: -16px;
+    width: 116%;
+    margin-left: -16px;
+}
+.TopBtn{
+    width: 75px;
+    border-radius: 5px;
+    margin: 10px;
+    border: none;
+    background-color: red;
+    color: white;
+    font-size: 12px;
+    
+}
+.TopBtn:hover{
+    background-color: red;
+}
+.TopBtn1:hover{
+    background-color:green
+}
+.TopBtn1{
+    width: 75px;
+    border-radius: 5px;
+    margin: 10px;
+    border: none;
+    background-color:green;
+    color: white;
+    font-size: 12px;
+
+}
+.CardText1{
+    margin-left:14px
+}
+.line{
+    width: 3px;
+    height: 26px;
+    background-color: white;
+    border-radius: 5px;
+    margin-left:20px;
+}
+
+.CardBtn2{
+    width: 116%;
+    margin-left: -16px;
+    border: none;
+    background-color: blue;
+    color: white;
+    margin-bottom: 0px !important;
+}
+.card-body {
+    flex: 1 1 auto;
+    padding: 1rem 1rem;
+    padding-top: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 0rem !important;
+    padding-left: 1rem;
+}
