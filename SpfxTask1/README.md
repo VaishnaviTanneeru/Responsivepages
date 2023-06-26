@@ -1,8 +1,8 @@
-# spfx-assignment-3
+Small Task on Cars
 
-## Summary
+Rental Cars
 
-Short summary on functionality and used technologies.
+Spfx and reactjs.
 
 [picture of the solution in action, if possible]
 
