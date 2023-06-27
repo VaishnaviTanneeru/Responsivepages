@@ -1,0 +1,12 @@
+Spfx making Webpart screen to full screen add the below css to the sccs file and call that css file in main file.
+:global {
+
+  #workbenchPageContent,
+
+  .CanvasComponent.LCS .CanvasZone {
+
+    max-width: 100% !important;
+
+  }
+
+}
