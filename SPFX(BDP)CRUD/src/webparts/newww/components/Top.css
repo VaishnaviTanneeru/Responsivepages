@@ -1,0 +1,61 @@
+.Topbar {
+    background-color: black;
+    height: 8vh;
+    width: 100%;
+    margin-top: 0;
+}
+
+.User {
+    color: aliceblue;
+    float: right;
+    margin-right: 20px;
+    margin-top: 10px;
+
+}
+
+.ulogo {
+    float: right;
+    border-radius: 50%;
+    width: 50px;
+    height: 8vh;
+      
+}
+
+.Homeicon{
+    float:left;
+    color: red;
+    margin-top: 10px; 
+    margin-bottom: 10px;
+    margin-left: 12px;
+    font-size: 24px;
+}
+.pp{
+    color:white;
+    float:left;
+    margin-left: 20%;
+    margin-top: 10px;
+    font-size: 20px;
+   
+}
+.Tt{
+    color:white; 
+    margin-top: 14px; 
+    margin-bottom: 10px;
+    float: left;
+    margin-left: 12px;
+}
+.Icon{
+    margin-top: 10px;
+    color:rgb(236, 32, 32);
+    float: right;
+    margin-right: 20px;
+}
+.Loc{
+    margin-top: 10px;
+    color:whitesmoke;
+    float: right;
+    margin-right: 20px;
+}
+
+
+
