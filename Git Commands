@@ -1,0 +1,7 @@
+Create a folder in local desktop
+open the folder path in cmd
+git clone  https://github.com/VaishnaviTanneeru/Spfx-Practice-.git
+##### Pushing #######
+git add .
+git commit -m "message"
+git push
